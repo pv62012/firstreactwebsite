@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/firstreactwebsite/static/css/main.d5fe2817.chunk.css",
+    "main.js": "/firstreactwebsite/static/js/main.eea9f72a.chunk.js",
+    "main.js.map": "/firstreactwebsite/static/js/main.eea9f72a.chunk.js.map",
+    "runtime-main.js": "/firstreactwebsite/static/js/runtime-main.cfacfd67.js",
+    "runtime-main.js.map": "/firstreactwebsite/static/js/runtime-main.cfacfd67.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/firstreactwebsite/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.6ebcf1b3.chunk.js": "/firstreactwebsite/static/js/2.6ebcf1b3.chunk.js",
+    "static/js/2.6ebcf1b3.chunk.js.map": "/firstreactwebsite/static/js/2.6ebcf1b3.chunk.js.map",
+    "index.html": "/firstreactwebsite/index.html",
+    "precache-manifest.5676326b36950365e1fe630c39ed22e5.js": "/firstreactwebsite/precache-manifest.5676326b36950365e1fe630c39ed22e5.js",
+    "service-worker.js": "/firstreactwebsite/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/firstreactwebsite/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.d5fe2817.chunk.css.map": "/firstreactwebsite/static/css/main.d5fe2817.chunk.css.map",
+    "static/js/2.6ebcf1b3.chunk.js.LICENSE.txt": "/firstreactwebsite/static/js/2.6ebcf1b3.chunk.js.LICENSE.txt",
+    "static/media/brighten.jpg": "/firstreactwebsite/static/media/brighten.bbef40c0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfacfd67.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.6ebcf1b3.chunk.js",
+    "static/css/main.d5fe2817.chunk.css",
+    "static/js/main.eea9f72a.chunk.js"
+  ]
+}
